@@ -1,5 +1,5 @@
 # 💫 About Me:
-Angular Developer<br>I’m always open to collaborating on exciting projects, especially those involving frontend development, API integrations, and improving user interfaces. <br>l'd appreciate any assistance, whether it's troubleshooting, optimizing performance, or implementing advanced features. If you have expertise in this area or know someone who does, l'd love to collaborate and learn from your experience.<br>React Native<br>
+Angular | Ionic Developer<br>I’m always open to collaborating on exciting projects, especially those involving frontend development, API integrations, and improving user interfaces. <br>l'd appreciate any assistance, whether it's troubleshooting, optimizing performance, or implementing advanced features. If you have expertise in this area or know someone who does, l'd love to collaborate and learn from your experience.<br>React Native<br>
 
 
 ## 🌐 Socials:
